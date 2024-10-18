@@ -1,14 +1,13 @@
+using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class PathGeneratorWindow : EditorWindow
 {
-    string myString = "Введите текст здесь";
-    bool groupEnabled;
-    bool myBool = true;
-    float myFloat = 1.23f;
+    private GameObject _roadsObjectParent;
     
-    [MenuItem("Window/My Custom Window")]
+    [MenuItem("RaceAI/Generate Path")]
     public static void ShowWindow()
     {
         PathGeneratorWindow wnd = GetWindow<PathGeneratorWindow>();
@@ -17,16 +16,29 @@ public class PathGeneratorWindow : EditorWindow
 
     private void OnGUI()
     {
-        // Создаём лейбл
-        GUILayout.Label("Настройки", EditorStyles.boldLabel);
+        EditorGUILayout.BeginHorizontal();
+        
+        _roadsObjectParent = (GameObject)EditorGUILayout.ObjectField("Обьект с дорогами", _roadsObjectParent, typeof(GameObject), true);
+        
+        EditorGUILayout.EndHorizontal();
+        
+        if (_roadsObjectParent != null)
+        {
+            if (GUILayout.Button("Сгенерировать путь"))
+            {
+                SaveChanges();
+                
+                CallGenerator();
+            }
+        }
+        else
+        {
+            GUILayout.Label("Не выбран родительский элемент с дорогами");
+        }
+    }
 
-        // Поле ввода текста
-        myString = EditorGUILayout.TextField("Текстовое поле", myString);
-
-        // Включаем или выключаем группу элементов
-        groupEnabled = EditorGUILayout.BeginToggleGroup("Доп. Настройки", groupEnabled);
-        myBool = EditorGUILayout.Toggle("Чекбокс", myBool);
-        myFloat = EditorGUILayout.Slider("Слайдер", myFloat, 0, 10);
-        EditorGUILayout.EndToggleGroup();
+    private void CallGenerator()
+    {
+        PathGenerator.StartGenerate(_roadsObjectParent);
     }
 }
