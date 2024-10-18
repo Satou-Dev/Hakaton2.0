@@ -1,4 +1,6 @@
-public class MeshChecker
+using UnityEngine;
+
+public class MeshChecker : MonoBehaviour
 {
     
 }

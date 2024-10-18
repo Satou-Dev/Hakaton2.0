@@ -17,6 +17,13 @@ namespace Managers
             {
                 Destroy(this);
             }
+
+            CallMethods();
+        }
+
+        private void CallMethods()
+        {
+            
         }
     }
 }
