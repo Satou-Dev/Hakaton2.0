@@ -1,0 +1,515 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '6000.0.21f1 (e2bacb8dee3a) revision 14858955'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ru' Physical Memory: 16179 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Wilpdrake/3D_Racing
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51548
+-job-worker-count
+3
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/Wilpdrake/3D_Racing
+C:/Users/Wilpdrake/3D_Racing
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [19460]  Target information:
+
+Player connection [19460]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 4246376671 [EditorId] 4246376671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KFTV1E5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19460]  * "[IP] 26.72.228.228 [Port] 0 [Flags] 2 [Guid] 4246376671 [EditorId] 4246376671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KFTV1E5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19460]  * "[IP] 172.21.64.1 [Port] 0 [Flags] 2 [Guid] 4246376671 [EditorId] 4246376671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KFTV1E5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19460]  * "[IP] 172.30.48.1 [Port] 0 [Flags] 2 [Guid] 4246376671 [EditorId] 4246376671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KFTV1E5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19460]  * "[IP] 172.26.32.1 [Port] 0 [Flags] 2 [Guid] 4246376671 [EditorId] 4246376671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KFTV1E5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19460]  * "[IP] 192.168.100.2 [Port] 0 [Flags] 2 [Guid] 4246376671 [EditorId] 4246376671 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KFTV1E5) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [19460] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [19460] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.21f1 (e2bacb8dee3a)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Wilpdrake/3D_Racing/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   32.0.15.6076
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56312
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005726 seconds.
+- Loaded All Assemblies, in  0.668 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.611 seconds
+Domain Reload Profiling: 1272ms
+	BeginReloadAssembly (231ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (62ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (258ms)
+		LoadAssemblies (224ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (253ms)
+			TypeCache.Refresh (251ms)
+				TypeCache.ScanAssembly (228ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (612ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (559ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (40ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (10ms)
+			ProcessInitializeOnLoadAttributes (352ms)
+			ProcessInitializeOnLoadMethodAttributes (141ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.768 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.749 seconds
+Domain Reload Profiling: 1510ms
+	BeginReloadAssembly (631ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (60ms)
+	RebuildCommonClasses (58ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (21ms)
+		LoadAssemblies (166ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (15ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (3ms)
+			BuildScriptInfoCaches (2ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (749ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (411ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (29ms)
+			ProcessInitializeOnLoadAttributes (213ms)
+			ProcessInitializeOnLoadMethodAttributes (56ms)
+			AfterProcessingInitializeOnLoad (103ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 69 unused Assets / (79.9 KB). Loaded Objects now: 673.
+Memory consumption went from 81.9 MB to 81.8 MB.
+Total: 6.366900 ms (FindLiveObjects: 0.120000 ms CreateObjectMapping: 0.018100 ms MarkObjects: 6.087100 ms  DeleteObjects: 0.132900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 254814.347983 seconds.
+  path: Assets/RACE AI/Race Track.unity
+  artifactKey: Guid(4b0731bec173a9949a3aaa4c51471834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/Race Track.unity using Guid(4b0731bec173a9949a3aaa4c51471834) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '54c53a4bbf2213985d1f9c03ad416373') in 0.0085886 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.058987 seconds.
+  path: Assets/Models/Dodge.fbx
+  artifactKey: Guid(f0be9953e4cdcc84fb0d6163e88956a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Dodge.fbx using Guid(f0be9953e4cdcc84fb0d6163e88956a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bcdcff6dd282a7fe281f16eff81948b') in 0.4728835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/RACE AI/_Materials/Ground/e18-004-ground-grass.mat
+  artifactKey: Guid(5942c9d17777bfb48b3e8ff37945381e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Ground/e18-004-ground-grass.mat using Guid(5942c9d17777bfb48b3e8ff37945381e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45ded15e7f84b00422e821b46dd30ced') in 0.1873393 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/RACE AI/_Model/Roads/Materials/all.mat
+  artifactKey: Guid(46559d157d7a744f7a9d805416509a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Roads/Materials/all.mat using Guid(46559d157d7a744f7a9d805416509a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b92bdae8c27aee436465274f75c69a4b') in 0.2386571 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/RACE AI/_Model/Roads/Materials/Road_albedo.mat
+  artifactKey: Guid(cffdb5629cedb4b2cacd14d51a5df3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Roads/Materials/Road_albedo.mat using Guid(cffdb5629cedb4b2cacd14d51a5df3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aff456d40d827a7f4c4d94f765834aa6') in 0.0171935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/RACE AI/_Materials/Other Materials/barrier3.mat
+  artifactKey: Guid(e45ffb8cfb2580c40bc2dd48b6c0c765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Other Materials/barrier3.mat using Guid(e45ffb8cfb2580c40bc2dd48b6c0c765) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '89f38454babdd463ac48f7581034e2fc') in 0.0122149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/RACE AI/_Materials/MatDriftRaceTrack/Building_05.mat
+  artifactKey: Guid(214f37ef53f214811bc869b56c0cf1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/MatDriftRaceTrack/Building_05.mat using Guid(214f37ef53f214811bc869b56c0cf1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ca2d594a3f37b51023e77200e48a4717') in 0.0110226 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/RACE AI/_Materials/Metals/metalplatespainted-9.mat
+  artifactKey: Guid(1c05c66df8f0de747ac95b103ba87806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Metals/metalplatespainted-9.mat using Guid(1c05c66df8f0de747ac95b103ba87806) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cb0137d37c9a26a7eff9ca8cc1c5f8ab') in 0.008605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/RACE AI/_Materials/Village materials/Road_Asphalt light.mat
+  artifactKey: Guid(ed8f50fcc30ab408792b63f9153f3b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Village materials/Road_Asphalt light.mat using Guid(ed8f50fcc30ab408792b63f9153f3b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99427d7cd6d6ffa35e56f2a86ef97d9d') in 0.01111 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/RACE AI/_Materials/Banners/banners.mat
+  artifactKey: Guid(d111d09270ef64954b36a96f7a6a315a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Banners/banners.mat using Guid(d111d09270ef64954b36a96f7a6a315a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '749b13aec6424055f014289b1f9c733d') in 0.0074456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/RACE AI/_Model/Roads/Materials/banners.mat
+  artifactKey: Guid(078297e0e0fde4b19a37b4743eec1d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Roads/Materials/banners.mat using Guid(078297e0e0fde4b19a37b4743eec1d59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3bc4221c99e1fb8369cf85e45f9d126b') in 0.0101601 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000138 seconds.
+  path: Assets/RACE AI/_Materials/Materials12/all.mat
+  artifactKey: Guid(521489e15231f4267aa8c899dd6c233f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Materials12/all.mat using Guid(521489e15231f4267aa8c899dd6c233f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b48a0d611f8d56b69184d18f3696f758') in 0.0388474 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/RACE AI/_Materials/MatDriftRaceTrack/Asphalt_Drift_08.mat
+  artifactKey: Guid(5e6c9c2aa208042aaa0a56b67a1c6699) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/MatDriftRaceTrack/Asphalt_Drift_08.mat using Guid(5e6c9c2aa208042aaa0a56b67a1c6699) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7a93869f1b69ed224e5fdfa6529e3bdd') in 0.0089481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/RACE AI/_Materials/Materials12/Road_Side_Albedo2.mat
+  artifactKey: Guid(aadd591379ff84badae9c89933bff64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Materials12/Road_Side_Albedo2.mat using Guid(aadd591379ff84badae9c89933bff64d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6bfef4fa42f3619228865de82eff0bc5') in 0.0966911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/RACE AI/_Model/Roads/Materials/e18-004-ground-grass.mat
+  artifactKey: Guid(ce3d27659b39746a986b8b150e284378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Roads/Materials/e18-004-ground-grass.mat using Guid(ce3d27659b39746a986b8b150e284378) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '442276df90c90645a26f10825aefe6b4') in 0.0911246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.563713 seconds.
+  path: Assets/RACE AI/_Materials/Other Materials/RoadBarrier.mat
+  artifactKey: Guid(4516aaa450bd46042b21dc88666178e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Other Materials/RoadBarrier.mat using Guid(4516aaa450bd46042b21dc88666178e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8bb3f81038a60f1f4d4b2ef845b1ba46') in 0.0083877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048427 seconds.
+  path: Assets/RACE AI/_Model/Roads/Materials/roadtrack.mat
+  artifactKey: Guid(345bd5a020b4141818e5923721f55c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Roads/Materials/roadtrack.mat using Guid(345bd5a020b4141818e5923721f55c22) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aacb160a63f7c1f116897973aa5070ad') in 0.1559455 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/RACE AI/_Materials/MatDriftRaceTrack/Tranperent.mat
+  artifactKey: Guid(165ea54b3f04dc5418c76601a3a7a64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/MatDriftRaceTrack/Tranperent.mat using Guid(165ea54b3f04dc5418c76601a3a7a64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e0fb142df7afcf89b3199b238b85ea2') in 0.0090113 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/RACE AI/_Materials/Materials12/rw_bnd3C.mat
+  artifactKey: Guid(bfd38712290d15f48a26081cc9e72930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Materials12/rw_bnd3C.mat using Guid(bfd38712290d15f48a26081cc9e72930) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c799bb109cfba8819ce11125f5f0fab') in 0.0069809 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/RACE AI/_Model/Environment/Driftmeshes/BarrierRoad_Toha.FBX
+  artifactKey: Guid(cc724fe4acf0641fea6808a42514dc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Environment/Driftmeshes/BarrierRoad_Toha.FBX using Guid(cc724fe4acf0641fea6808a42514dc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '498626bfe7dbc4da6a01e047a0ea71df') in 0.0409506 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040027 seconds.
+  path: Assets/RACE AI/_Model/Roads/Materials/tunnel.mat
+  artifactKey: Guid(6e1d46c54f92643df824d393508c4a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Model/Roads/Materials/tunnel.mat using Guid(6e1d46c54f92643df824d393508c4a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '23f974c7b29add3fb6c15658b44fbd44') in 0.0151547 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.344896 seconds.
+  path: Assets/RACE AI/_Materials/Banners
+  artifactKey: Guid(17f9b650094dfef408d8d23387059b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Banners using Guid(17f9b650094dfef408d8d23387059b87) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0e91f73c2c76c03d6cd856b6ff10c48a') in 0.0008792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.042163 seconds.
+  path: Assets/RACE AI/_Materials/Road Signs
+  artifactKey: Guid(171815c8e6e7a224195beda53f534582) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/_Materials/Road Signs using Guid(171815c8e6e7a224195beda53f534582) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'faee14ddb0dcecdb0b3e818c70a97cfd') in 0.000716 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.773838 seconds.
+  path: Assets/RACE AI/Textures/FenceGrid.png
+  artifactKey: Guid(88d80126289cc0a42a6438e8e19f1fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/RACE AI/Textures/FenceGrid.png using Guid(88d80126289cc0a42a6438e8e19f1fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '70ded783394abe6da2b1d69f8cd9cbd8') in 0.0163768 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 10.137 seconds
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.122 seconds
+Domain Reload Profiling: 11248ms
+	BeginReloadAssembly (8956ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (251ms)
+	RebuildNativeTypeToScriptingClass (48ms)
+	initialDomainReloadingComplete (250ms)
+	LoadAllAssembliesAndSetupDomain (620ms)
+		LoadAssemblies (9262ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (203ms)
+			TypeCache.Refresh (135ms)
+				TypeCache.ScanAssembly (119ms)
+			BuildScriptInfoCaches (49ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1123ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (764ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (14ms)
+			BeforeProcessingInitializeOnLoad (161ms)
+			ProcessInitializeOnLoadAttributes (425ms)
+			ProcessInitializeOnLoadMethodAttributes (129ms)
+			AfterProcessingInitializeOnLoad (28ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Hidden/Universal Render Pipeline/FallbackError': fallback shader 'Hidden/Core/FallbackError' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 123 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3276 unused Assets / (13.7 MB). Loaded Objects now: 3800.
+Memory consumption went from 140.3 MB to 126.5 MB.
+Total: 17.304000 ms (FindLiveObjects: 0.487800 ms CreateObjectMapping: 0.774800 ms MarkObjects: 6.111200 ms  DeleteObjects: 9.928200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Universal Render Pipeline/Nature/SpeedTree7': dependency 'BillboardShader' shader 'Universal Render Pipeline/Nature/SpeedTree7 Billboard' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Add Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+Shader 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)': fallback shader 'Hidden/Universal Render Pipeline/FallbackError' not found
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Hidden/Universal Render Pipeline/Terrain/Lit (Base Pass)' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Hidden/Universal Render Pipeline/FallbackError': fallback shader 'Hidden/Core/FallbackError' not found
+Shader 'Universal Render Pipeline/Baked Lit': fallback shader 'Universal Render Pipeline/Unlit' not found
+Refreshing native plugins compatible for Editor in 0.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 123 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 123 unused Assets / (9.9 MB). Loaded Objects now: 3800.
+Memory consumption went from 139.3 MB to 129.4 MB.
+Total: 13.422600 ms (FindLiveObjects: 0.298000 ms CreateObjectMapping: 0.358700 ms MarkObjects: 6.729400 ms  DeleteObjects: 6.035100 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.885 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.929 seconds
+Domain Reload Profiling: 1810ms
+	BeginReloadAssembly (258ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (23ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (504ms)
+		LoadAssemblies (428ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (224ms)
+			TypeCache.Refresh (132ms)
+				TypeCache.ScanAssembly (118ms)
+			BuildScriptInfoCaches (74ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (930ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (628ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (141ms)
+			ProcessInitializeOnLoadAttributes (376ms)
+			ProcessInitializeOnLoadMethodAttributes (87ms)
+			AfterProcessingInitializeOnLoad (15ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 0.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 124 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3502 unused Assets / (14.1 MB). Loaded Objects now: 4025.
+Memory consumption went from 145.4 MB to 131.3 MB.
+Total: 18.177500 ms (FindLiveObjects: 0.586800 ms CreateObjectMapping: 1.078300 ms MarkObjects: 6.450100 ms  DeleteObjects: 10.060300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
