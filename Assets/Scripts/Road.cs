@@ -12,7 +12,7 @@ public class Road : MonoBehaviour
     {
         InitializeVars();
         InitializeRoadParts();
-        SpawnMeshAnalyzer();
+        SendStartMessage();
     }
     
     private void OnDestroy()
@@ -37,9 +37,12 @@ public class Road : MonoBehaviour
             _roadParts.Add(roadPartObject);
         }
     }
-
-    private void SpawnMeshAnalyzer()
+    
+    private void SendStartMessage()
     {
-        MeshAnalyzerFabric.SpawnMeshChecker();
+        Debug.Log("Чтобы сгенерировать путь откройте контекстное меню и нажмите сгенерировать");
     }
+    
+    [ContextMenu("Сгенерировать")]
+    private void GeneratePath() => RoadGenerator.InitializeOnObject(transform);
 }
