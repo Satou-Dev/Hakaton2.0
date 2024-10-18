@@ -2,11 +2,15 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 [ExecuteAlways]
+[RequireComponent(typeof(RoadGenerator))]
 public class Road : MonoBehaviour
 {
     private List<RoadPart> _roadParts;
+
+    [SerializeField] private Structs.TrackParams trackParams;
     
     private void Start()
     {
@@ -44,5 +48,5 @@ public class Road : MonoBehaviour
     }
     
     [ContextMenu("Сгенерировать")]
-    private void GeneratePath() => RoadGenerator.InitializeOnObject(transform);
+    private void GeneratePath() => GetComponent<RoadGenerator>().InitializeOnObject(transform);
 }

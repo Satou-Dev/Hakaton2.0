@@ -2,9 +2,9 @@ using System;
 using UnityEditor;
 using UnityEngine;
 
-public class RoadGenerator
+public class RoadGenerator : MonoBehaviour
 {
-    public static void InitializeOnObject(Transform transform)
+    public void InitializeOnObject(Transform transform)
     {
         FinishLine finishLine = FinishLine.Instance;
         if (finishLine)
