@@ -6,11 +6,13 @@ public class RoadPart : MonoBehaviour
 {
     private void Start()
     {
+        this.gameObject.layer = LayerMask.NameToLayer("Track");
         Debug.Log("Initialized");
     }
     
     public void DestroyScript()
     {
+        this.gameObject.layer = LayerMask.NameToLayer("Default");
 #if UNITY_EDITOR
         DestroyImmediate(this);
 #else 

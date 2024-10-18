@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="15eae8ad-45c5-4471-b654-c62ef9248b6a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Racing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Racing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Car.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Car.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RACE AI/Race Track.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RACE AI/Race Track.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/RACE AI/_Model/Props/Road_to_race2.FBX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/RACE AI/_Model/Props/Road_to_race2.FBX.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Road.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Road.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoadCurve.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RoadCurve.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RoadPart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RoadPart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +105,7 @@
       <updated>1729245675689</updated>
       <workItem from="1729245677226" duration="6022000" />
       <workItem from="1729257301209" duration="538000" />
-      <workItem from="1729258506637" duration="7688000" />
+      <workItem from="1729258506637" duration="12937000" />
     </task>
     <servers />
   </component>

@@ -22,7 +22,7 @@ public class Road : MonoBehaviour
             _roadParts.Remove(roadPart);
         }
     }
-
+    
     private void InitializeVars()
     {
         _roadParts = new List<RoadPart>();
