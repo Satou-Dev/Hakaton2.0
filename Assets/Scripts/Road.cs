@@ -12,6 +12,7 @@ public class Road : MonoBehaviour
     {
         InitializeVars();
         InitializeRoadParts();
+        SpawnMeshAnalyzer();
     }
     
     private void OnDestroy()
@@ -22,7 +23,7 @@ public class Road : MonoBehaviour
             _roadParts.Remove(roadPart);
         }
     }
-
+    
     private void InitializeVars()
     {
         _roadParts = new List<RoadPart>();
@@ -35,5 +36,10 @@ public class Road : MonoBehaviour
             RoadPart roadPartObject = roadPartMeshFilter.gameObject.AddComponent<RoadPart>();
             _roadParts.Add(roadPartObject);
         }
+    }
+
+    private void SpawnMeshAnalyzer()
+    {
+        
     }
 }
