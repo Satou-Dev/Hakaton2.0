@@ -40,6 +40,6 @@ public class Road : MonoBehaviour
 
     private void SpawnMeshAnalyzer()
     {
-        
+        MeshAnalyzerFabric.SpawnMeshChecker();
     }
 }

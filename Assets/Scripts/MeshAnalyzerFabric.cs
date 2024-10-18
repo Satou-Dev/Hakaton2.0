@@ -5,7 +5,7 @@ public class MeshAnalyzerFabric : MonoBehaviour
 {
     private MeshChecker _meshChecker;
 
-    private void SpawnMeshChecker(Transform transformStart)
+    public static void SpawnMeshChecker(Transform transformStart)
     {
         
     }
