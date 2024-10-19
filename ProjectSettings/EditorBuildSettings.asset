@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mobile/StartMenu.unity
+    guid: aa651743f0091484da6532984561eb71
+  - enabled: 1
+    path: Assets/Scenes/Mobile/Autors.unity
+    guid: 86be3922dc3be184095c1ef7e679f038
+  - enabled: 1
+    path: Assets/Scenes/Mobile/Level.unity
+    guid: 30c029bc0e6d0114cb45cd00f665abac
+  - enabled: 1
+    path: Assets/RACE AI/Race Track.unity
+    guid: 4b0731bec173a9949a3aaa4c51471834
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f901da04e1ba2f648a8310fc69423261, type: 2}
   m_UseUCBPForAssetBundles: 0

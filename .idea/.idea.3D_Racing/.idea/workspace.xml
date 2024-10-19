@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15eae8ad-45c5-4471-b654-c62ef9248b6a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.3D_Racing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.3D_Racing/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/ML-Agents/Timers/Race Track_timers.json" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ML-Agents/Timers/Race Track_timers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Resources/Prefabs/Car.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/Prefabs/Car.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CarAgent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CarAgent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-6000.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/Dodge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/Textures/Dodge.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Mobile/Level.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Mobile/Level.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.sequences/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.sequences/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/MLUnity/ml-agents/com.unity.ml-agents.extensions/Runtime/Sensors/ArticulationBodyPoseExtractor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/MLUnity/ml-agents/com.unity.ml-agents.extensions/Runtime/Sensors/ArticulationBodyPoseExtractor.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Desktop/MLUnity/ml-agents/com.unity.ml-agents.extensions/Runtime/Sensors/RigidBodyPoseExtractor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Desktop/MLUnity/ml-agents/com.unity.ml-agents.extensions/Runtime/Sensors/RigidBodyPoseExtractor.cs" afterDir="false" />
     </list>
